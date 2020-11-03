@@ -205,18 +205,6 @@
             "type": "string",
             "defaultValue": "[newGuid()]"
         },        
-        "hostpoolToken": {
-            "type": "string",
-            "metadata": {
-                "description": "The token for adding VMs to the hostpool"
-            }
-        },
-        "hostpoolName":{
-            "type": "string",
-            "metadata": {
-                "description": "The name of the hostpool"
-            }
-        },
         "ouPath": {
             "type":"string",
             "metadata": {
